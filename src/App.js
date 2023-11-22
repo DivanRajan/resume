@@ -39,16 +39,16 @@ function App() {
    </head>
    <body>
    <div   style={mystyle}> <br/><br/>
-   <ul> <img src={myphoto}  height={300} width={300} style={{borderRadius:700}}  />
+   <ul> <img src={myphoto} alt=''  height={300} width={300} style={{borderRadius:700}}  />
     
 
-   <h2><img src={objective} height={30} width={30}></img>OBJECTIVE</h2>
+   <h2><img src={objective} alt='' height={30} width={30}></img>OBJECTIVE</h2>
    <p>Eagerly looking forward to work as a Full Stack Developer
     at your esteemed organization which offers challenging assignments
     and carrer growth prospects</p> 
   
   
-   <h2><img src={education} height={30} width={30}></img>EDUCATION</h2>
+   <h2><img src={education} alt='' height={30} width={30}></img>EDUCATION</h2>
    <li>PSG COLLEGE OF ARTS AND Science,
     COIMBATORE.
     BACHELOR OF SCIENCE -70%
@@ -60,7 +60,7 @@ function App() {
    <li>ST.JOSEPH MATRIC.HR.SEC SCHOOL
     MANAMADURAI.
    </li>
-   <h2><img src={certificateslogo} height={30} width={30}></img>CERTIFICATES</h2>
+   <h2><img src={certificateslogo}alt='' height={30} width={30}></img>CERTIFICATES</h2>
    
     <li> FULL STACK DEVELOPEMENT PRO | FROM IMARTICUS LEARNING,
       COIMBATOR
@@ -78,14 +78,14 @@ function App() {
      <h1>FULL STACK DEVELOPER</h1>
      
    
-<h2><img src={profile} height={30} width={30}></img>PROFILE</h2><ul>
-<img src={mobile} height={30} width={30}></img>7904792486 <br/>
-<img src={home} height={30} width={30}></img>ADDRESS:LAKSHMI NAGAR,NALLAMPALAYAM
+<h2><img src={profile} alt='' height={30} width={30}></img>PROFILE</h2><ul>
+<img src={mobile}alt='' height={30} width={30}></img>7904792486 <br/>
+<img src={home}alt='' height={30} width={30}></img>ADDRESS:LAKSHMI NAGAR,NALLAMPALAYAM
       COIMBATORE<br/>
-      <img src={emaillogo} height={30} width={30}></img>EMAIL:divanrajan2001@gmail.com<br/>
-      <img src={linkedin} height={30} width={30}></img>LINKEDIN:
+      <img src={emaillogo}alt='' height={30} width={30}></img>EMAIL:divanrajan2001@gmail.com<br/>
+      <img src={linkedin}alt='' height={30} width={30}></img>LINKEDIN:
     </ul>
-<h2><img src={skills} height={30} width={30}></img>SKILLS</h2>
+<h2><img src={skills}alt='' height={30} width={30}></img>SKILLS</h2>
 <h3>LANGUAGES</h3>
     <li>HTML</li>
     <li>CSS</li>
@@ -99,10 +99,10 @@ function App() {
     <li>GIT</li>
     <li>VISUAL STUDIO CODE</li>
     <li>ECLIPSE</li>
-<h3> <img src={language} height={30} width={30}></img>SPEAKING LANGUAGES</h3>
+<h3> <img src={language}alt='' height={30} width={30}></img>SPEAKING LANGUAGES</h3>
     <li>TAMIL</li>
     <li>ENSLISH</li>
-<h3><img src={hobbies} height={30} width={30}></img>HOBBIES & INTERESTS</h3>
+<h3><img src={hobbies}alt='' height={30} width={30}></img>HOBBIES & INTERESTS</h3>
 
     <li>BODY BUILDING</li>
     <li>DANCING</li>
